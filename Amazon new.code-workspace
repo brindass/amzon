@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Amazon images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Amazon new",
+		"liveServer.settings.port": 5501
+	}
+}
